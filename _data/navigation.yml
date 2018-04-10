@@ -3,8 +3,8 @@
 
 - name: Home
   description: Home
-  # folder: pages/
-  permalink: / 
+  # folder: pages/home
+  permalink: home/ 
   # fa-icon: icon-info
 
 - name: Logo
@@ -16,25 +16,25 @@
 - name: Kleur
   description: Kleur
   folder: pages/kleur/
-  permalink: kleur/i
+  permalink: kleur/
   # fa-icon: icon-info
 
 - name: Typografie
   description: Typografie
   folder: pages/typografie/
-  permalink: kleur/i
+  permalink: typografie/
   # fa-icon: icon-info
 
 - name: Persoonlijkheid
   description: Typografie
   folder: pages/Persoonlijkheid/
-  permalink: kleur/i
+  permalink: persoonlijkheid/
   # fa-icon: icon-info
 
   - name: Toepassingen
   description: Typografie
   folder: pages/Toepassingen/
-  permalink: kleur/i
+  permalink: toepassingen/
   # fa-icon: icon-info
 
 - name: Styleguide
