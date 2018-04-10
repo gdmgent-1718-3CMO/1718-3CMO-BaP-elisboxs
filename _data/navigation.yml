@@ -5,7 +5,7 @@
 - name: Home
   description: Home
   # folder: pages/home
-  permalink: home/ 
+  permalink: / 
   # fa-icon: icon-info
 
 - name: Logo
