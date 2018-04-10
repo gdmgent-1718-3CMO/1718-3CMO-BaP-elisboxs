@@ -31,6 +31,12 @@
   folder: pages/persoonlijkheid/
   permalink: persoonlijkheid/
   # fa-icon: icon-info
+
+  - name: Toepassingen
+  description: Toepassingen
+  folder: pages/toepassingen/
+  permalink: toepassingen/
+  # fa-icon: icon-info
   
 - name: Styleguide
   description: Stijlgids voor de Huistijlgids
