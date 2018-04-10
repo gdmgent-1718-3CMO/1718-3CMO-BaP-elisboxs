@@ -1,6 +1,7 @@
 # functie uitschakelen met '#'
 # dubbele spatie voor de criteria behouden
 
+
 - name: Home
   description: Home
   # folder: pages/home
