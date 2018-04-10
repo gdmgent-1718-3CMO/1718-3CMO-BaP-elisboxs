@@ -37,12 +37,14 @@ $clientcolor-5:rgba(250,120,120,1);
 
 // Imports
 // Website
-@import url('https://fonts.googleapis.com/css?family=Cookie');
+@import url('https://fonts.googleapis.com/css?family=Cookie|Quicksand');
 // Client specific
-@import url('https://fonts.googleapis.com/css?family=Cookie');
+@import url('https://fonts.googleapis.com/css?family=Cookie|Quicksand');
 
 // type
 $myfont-family-base: 'Cookie', cursive;
+$myfont-family-title: $myfont-family-base;
+$myfont-family-base: 'Quicksand', sans-serif;
 $myfont-family-title: $myfont-family-base;
 
 // sizes
@@ -59,6 +61,8 @@ $font-weight-bold: 800;
 // type
 $clientfont-family-base: 'Raleway', serif;
 $clientfont-family-title: $myfont-family-base;
+$myfont-family-base: 'Quicksand', sans-serif;
+$myfont-family-title: $myfont-family-base;
 
 // sizes
 $client-font-size-base: 16px;
