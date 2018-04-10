@@ -26,14 +26,14 @@
   # fa-icon: icon-info
 
 - name: Persoonlijkheid
-  description: Typografie
-  folder: pages/Persoonlijkheid/
+  description: Persoonlijkheid
+  folder: pages/persoonlijkheid/
   permalink: persoonlijkheid/
   # fa-icon: icon-info
 
   - name: Toepassingen
   description: Typografie
-  folder: pages/Toepassingen/
+  folder: pages/toepassingen/
   permalink: toepassingen/
   # fa-icon: icon-info
 
