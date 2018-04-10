@@ -40,13 +40,11 @@ $clientcolor-5:rgba(250,120,120,1);
 
 // Imports
 // Website
-@import url('https://fonts.googleapis.com/css?family=Cookie|Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
 // Client specific
-@import url('https://fonts.googleapis.com/css?family=Cookie|Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
 
 // type
-$myfont-family-base: 'Cookie', cursive;
-$myfont-family-title: $myfont-family-base;
 $myfont-family-base: 'Quicksand', sans-serif;
 $myfont-family-title: $myfont-family-base;
 
@@ -62,8 +60,6 @@ $font-weight-bold: 800;
 //------------------------------
 
 // type
-$clientfont-family-base: 'Cookie', cursive;
-$clientfont-family-title: $myfont-family-base;
 $myfont-family-base: 'Quicksand', sans-serif;
 $myfont-family-title: $myfont-family-base;
 
