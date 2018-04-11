@@ -1,11 +1,26 @@
 /* Navigation
 ---------------------------------------------
 */
-.navbar a {
-    border: none;
-}
 .navbar {
-background-color: rgb(203,202,0); 
+  background-color:rgb(203,202,0);
+}
+.navbar-expand-md .navbar-nav .nav-link {
+    padding-right: 0;
+    padding-left: 2rem;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+    color:rgb(42,84,38);
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: 15pt;
+}
+.navbar-expand-md:hover .navbar-nav:hover .nav-link:hover {
+   opacity: 0.7;
+}
+
+.navbar-expand-md:active .navbar-nav:active .nav-link:active {
+   opacity: 0.7;
+   color:white; 
 }
 
 /* FOOTER
@@ -29,9 +44,8 @@ body {
   bottom: 0;
   left: 0;
 }
-
 footer {
-    background-color: $mycolor-7 ;
+    background-color: rgb(203,202,0);
     color: $color-white;
     a {
         color: $color-white;
