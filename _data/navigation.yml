@@ -10,7 +10,7 @@
 
 - name: Logo
   description: Logo
-  folder: pages/logo/
+  # folder: pages/logo/
   permalink: logo/
   # fa-icon: icon-graduation-cap
 
@@ -34,7 +34,7 @@
 
 - name: Toepassingen
   description: Toepassingen
-  folder: pages/toepassingen/
+  # folder: pages/toepassingen/
   permalink: toepassingen/
   # fa-icon: icon-info
   
