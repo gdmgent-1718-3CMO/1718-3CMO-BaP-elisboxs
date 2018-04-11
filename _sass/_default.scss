@@ -33,19 +33,19 @@ a {
     color: $body-link;
     border-bottom: dotted 1px $body-link;
     &:hover{
-        color: $body-link;
+        color: rgb(203,202,0);
         text-decoration: none;
         border-bottom: solid 1px $body-link;
     }
     &:active{
-        background-color: $body-link;
-        color: $color-white;
+        background-color:rgb(42,84,38);
+        color: rgb(203,202,0);
     }
     &:focus{}
 }
 blockquote {
     padding-left: 24px;
-    border-left: 2px solid $mycolor-5;
+    border-left: 2px solid rgb(42,84,38);
 }
 
 // ongeordende lijstjes met een ander symbool of kleur
@@ -58,7 +58,7 @@ main ul {
     text-indent: -25px;
     &:before {
         content:'\2022';
-        color: $mycolor-5;
+        color: rgb(203,202,0);
         margin-right: 18px;
     }    
   }
@@ -80,8 +80,8 @@ main ol {
         padding: 3px 6px;
         margin-right: 5px;
         border-radius: 5px;
-        background-color: $mycolor-5;
-        color: $color-white;
+        background-color: rgb(203,202,0);
+        color: rgb(42,84,38);
         font-family:'Quicksand', sans-serif;
         font-weight: $font-weight-bold;
       }    
