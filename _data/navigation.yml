@@ -16,19 +16,19 @@
 
 - name: Kleur
   description: Kleur
-  folder: pages/kleur/
+  # folder: pages/kleur/
   permalink: kleur/
   # fa-icon: icon-info
 
 - name: Typografie
   description: Typografie
-  folder: pages/typografie/
+ # folder: pages/typografie/
   permalink: typografie/
   # fa-icon: icon-info
 
 - name: Persoonlijkheid
   description: Persoonlijkheid
-  folder: pages/persoonlijkheid/
+  # folder: pages/persoonlijkheid/
   permalink: persoonlijkheid/
   # fa-icon: icon-info
 
