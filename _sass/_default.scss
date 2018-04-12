@@ -5,8 +5,8 @@ body {
     font-weight: $font-weight-base;
     font-size: $font-size-base;
     line-height: $lineheight-base;
-    background-color:white;
-    color:white;
+    background-color: $body-bg;
+    color: $body-color;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -111,13 +111,13 @@ footer .laatste{
 }
 .btn, .btn-primary{
     color:rgb(42,84,38);
-    background-color:none;
-    border: 2px, rgb(42,84,38);
+    background-color:white;
+    border: 2px rgb(42,84,38) solid;
     transition: all 0.7s ease-in-out;
 }
 .btn-primary:hover{
     color:white;
-    background-color:none;
-    border: 2px, rgb(42,84,38);
+    background-color:white;
+    border: 2px rgb(42,84,38) solid;
     
 }
