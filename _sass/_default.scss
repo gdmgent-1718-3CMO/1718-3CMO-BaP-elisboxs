@@ -109,3 +109,15 @@ footer .laatste{
     margin-bottom: 0;
     
 }
+.btn, .btn-primary{
+    color:rgb(42,84,38);
+    background-color:none;
+    border: 1px, rgb(42,84,38);
+     transition: all 0.7s ease-in-out;
+}
+.btn-primary:hover{
+    color:white;
+    background-color:none;
+    border: 1px;
+    
+}
