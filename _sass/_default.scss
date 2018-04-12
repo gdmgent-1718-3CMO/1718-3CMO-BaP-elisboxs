@@ -112,20 +112,12 @@ footer .laatste{
 .btn, .btn-primary{
     color:rgb(42,84,38);
     background-color:white;
-    border: 1px, rgb(42,84,38);
+    border: 2px, rgb(42,84,38);
     transition: all 0.7s ease-in-out;
 }
 .btn-primary:hover{
     color:white;
     background-color:white;
-    border: 1px;
+    border: 2px, rgb(42,84,38);
     
-}
-.leesmeer{
-    margin-top: 40px;
-    margin-bottom: 80px;
-}
-.leesmeeru{
-    margin-top: 30px;
-    margin-bottom: 30px;
 }
