@@ -30,12 +30,10 @@ h3, h4, h5, h6 {
 }
 a {
     text-decoration: none;
-    color: $body-link;
-    border-bottom: dotted 1px $body-link;
+    color: rgb(42,84,38);
     &:hover{
         color: rgb(203,202,0);
         text-decoration: none;
-        border-bottom: solid 1px $body-link;
     }
     &:active{
         background-color:rgb(42,84,38);
