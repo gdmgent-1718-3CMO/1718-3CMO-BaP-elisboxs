@@ -1,0 +1,104 @@
+%!Adobe-FontList 1.19
+%Locale:0x813
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Cookie-Regular
+FamilyName:Cookie
+StyleName:Regular
+FullName:Cookie-Regular
+MenuName:Cookie
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Graphic Design Laatste jaar\Graphic design III\BAP-VZW Suskewiet\1718_Boxstaele_Elise_BaP\folder map\Document fonts\Cookie-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:43800
+FileModTime:1479469309
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Cookie-Regular
+NameArray:0,Win,1,Cookie
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:QuicksandBold-Regular
+FamilyName:Quicksand
+StyleName:Bold
+FullName:Quicksand Bold Regular
+MenuName:Quicksand Bold
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\Graphic Design Laatste jaar\Graphic design III\BAP-VZW Suskewiet\1718_Boxstaele_Elise_BaP\folder map\Document fonts\Quicksand_Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:37812
+FileModTime:1479383005
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Quicksand Bold Regular
+NameArray:0,Win,1,Quicksand Bold
+NameArray:0,Win,16,Quicksand
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:QuicksandBook-Regular
+FamilyName:Quicksand
+StyleName:Book
+FullName:Quicksand Book Regular
+MenuName:Quicksand Book
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Graphic Design Laatste jaar\Graphic design III\BAP-VZW Suskewiet\1718_Boxstaele_Elise_BaP\folder map\Document fonts\Quicksand_Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:36656
+FileModTime:1479383024
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Quicksand Book Regular
+NameArray:0,Win,1,Quicksand Book
+NameArray:0,Win,16,Quicksand
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:QuicksandLight-Regular
+FamilyName:Quicksand
+StyleName:Light
+FullName:Quicksand Light Regular
+MenuName:Quicksand Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\Graphic Design Laatste jaar\Graphic design III\BAP-VZW Suskewiet\1718_Boxstaele_Elise_BaP\folder map\Document fonts\Quicksand_Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:35504
+FileModTime:1479383050
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Quicksand Light Regular
+NameArray:0,Win,1,Quicksand Light
+NameArray:0,Win,16,Quicksand
+%EndFont
+
